@@ -1,0 +1,246 @@
+body{
+	background-color:#74AFAD;
+	padding: 0px;
+	margin: 0px;
+
+}
+input[type="text"],[type="password"]{
+	height:45px;
+	width:300px;
+	font-size:18px;
+	margin-bottom:20px;
+	background-color:#ECECEA;
+	
+}
+
+div.img{
+	height: 100px;
+	width: 300px;
+	margin:auto;
+}
+div.body{
+	margin:auto;
+	height: 472px;
+	width: 100%;
+	background-color: #74AFAD;
+	overflow: auto;
+}
+#home, #details, #update, #add, #profile{
+	border: none;
+	height: 100%;
+	width: 20%;
+	background-color:#D9853B;
+	float: left;
+	border-bottom: 1px ridge black;
+	
+}
+
+div.footer{
+	padding: 0px;
+	margin: 0px;
+	height: 70px;
+	width: 100%;
+	background-color: #74AFAD;
+}
+
+div.address{
+	height: 100%;
+	width: 25%;
+	background-color:#74AFAD;
+	float: left;
+}
+
+div.contact{
+	height: 100%;
+	width: 25%;
+	background-color:#74AFAD;
+	float: left;
+
+}
+div.social{
+	height: 100%;
+	width: 40%;
+	background-color: ;
+	float: right;
+}
+.fb,.instagram,.twitter,.playstore,.google{
+	height: 50%;
+	width: 8%;
+	background-color: ;
+	float: right;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+
+			  /*-------Body css--------*/
+
+.partyadd{
+	background-color:;
+	width: 100%;
+	height: 472px;
+	overflow: auto;
+}
+.party1{
+	height: 80%;
+	width: 49.5%;
+	background-color:  ;
+	float: left;
+	
+}
+.party2{
+	height: 80%;
+	width: 50%;
+	background-color:;
+	float: left;
+}
+.head{
+	margin:auto;
+	margin-top: 20px;
+	width: 70%;
+	height: 10%;
+	background-color: ;
+	
+}
+
+.input{
+	margin: auto;
+	margin-top: 15px;
+	height: 80%;
+	width: 90%;
+	background-color: ;
+}
+
+
+.pname label, .desc label, .service label,.cost label,.pn label{
+	width: 200px;
+	float: left;
+}
+.cost label{
+	width: 40px;
+	float: left;
+}
+.time label{
+	width: 110px;
+	float: left;
+}
+.max label{
+	width: 70px;
+	float: left;
+}
+
+#cost{
+	height: 50%;
+	width: 60%;
+}
+#time{
+	height: 50%;
+	width: 40%;
+}
+#max{
+	height: 50%;
+	width: 30%;
+}
+#desc,#service{
+	height: 70%;
+	width: 60%;
+}
+#pname{
+	height: 30px;
+	width: 60%;
+}
+#desc,#service{
+	height: 85%;
+	width: 60%;
+}
+#partyupdate1, #partydelete{
+	margin-top: 50px;
+	height: 30px;
+	width: 150px;
+	padding: 5px;
+	margin-left: 2px;
+}
+#pn{
+	height: 70%;
+	width: 60%;
+}
+
+
+
+
+/*sign up box*/
+
+.fname{
+	height: 100%; width: 50%; float: left;
+}
+.lname{
+	height: 100%; width: 50%;
+}
+
+
+.gender{
+	height: 100%; width: 30%; float: left;
+}
+
+ .phone, .reset{
+	height: 100%; width: 48%; float: right;
+}
+
+.reset{
+	height: 100%; width: 48%; float: right;
+}
+
+
+
+
+#fname{
+	height: 70%; width:60%;
+}
+.fname label, .lname label{
+	width: 30%;
+	float: left;
+}
+#lname{
+	height: 70%; width:60%;}
+#submit1,#logout{
+	height: 70%; width:40%; float: left; margin: 5%;}
+
+#reset{
+	height: 70%; width:98%;}
+
+
+#email{
+	height: 70% ; width: 80%;
+}
+.email label{
+	width: 15%;
+	float: left;
+}
+#password{
+	height: 70% ; width: 80%;
+}
+.password label{
+	width: 15%;
+	float: left;
+}
+#address1{
+	height: 70% ; width: 80%;
+}
+.address1 label{
+	width: 15%;
+	float: left;
+}
+#username{
+	height: 70% ; width: 80%;
+}
+.username label{
+	width: 15%;
+	float: left;
+}
+#phone{
+	height: 70%; width: 60%;
+}
+.phone label{
+	width: 30%;
+	float: left;
+}

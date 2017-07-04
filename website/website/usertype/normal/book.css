@@ -1,0 +1,100 @@
+
+.bookform{
+	height: 350px;
+	width: 50%;
+	margin-left: 20%;
+	background-color: ;
+	margin-top:120px;
+	margin-left: 300px;
+
+}
+
+
+input[type="text"],[type="password"]{
+	font-size:20px;
+	margin-bottom:20px;
+	background-color:#ECECEA;
+	font-family: Bell MT;
+}
+
+
+
+
+
+
+
+
+
+
+/*-------Footer Part-------------*/
+.footer{
+	height: 200px; width: 100%; background-color:#C63D0F;
+	position: absolute;
+	bottom: 0px;
+}
+.bottom{
+	height: 35px;
+	width: 100%;
+	background-color: black;
+	margin-top: 180px;
+}
+.footer1{
+	position: absolute;
+	height:160px; width: 300px;
+	background-color: ; 
+	margin-top: 10px;
+	margin-left: 100px;
+	border-right: 1px solid white;
+	float: left;
+
+}
+.footer2{
+	position: absolute;
+	height:160px; width: 300px;
+	background-color: ; 
+	margin-top: 10px;
+	margin-left: 430px;
+	border-right: 1px solid white;
+	float: left;
+	
+}
+.footer3{
+	position: absolute;
+	height:160px; width: 200px;
+	background-color: ; 
+	margin-top: 10px;
+	margin-left: 760px;
+	border-right: 1px solid white;
+	float: left;
+	
+}
+.footer4{
+	position: absolute;
+	height:70px; width: 370px;
+	background-color: ; 
+	margin-top: 110px;
+	margin-left: 970px;
+	float: left;
+	
+}
+.footer2 p, .footer3 p{
+	line-height: 20px;
+	color: #ECECEA;
+
+}
+
+.fb,.instagram,.twitter,.playstore,.google{
+	height: 90%;
+	width: 55px;
+	background-color: ;
+	float: left;
+	margin-left:15px;
+	background-color:;
+}
+.fb,.instagram,.twitter,.playstore,.google:a{
+	text-decoration: none;
+}
+.email a:hover{
+	font-size: 15px;
+	color: #ECECEA;
+}

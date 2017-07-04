@@ -1,0 +1,45 @@
+#login1{
+	height: 380px;
+	width: 600px;
+	background-color: blue;
+	padding-top: 70px;
+	padding-left: 40px;
+}
+#login2{
+	background-color: grey;
+	height: 350px;
+	width: 90%;
+}
+div.f{
+	height: 15px;
+
+}
+
+div.login3{
+	padding-top: 3%;
+	padding-left: 10%;
+}
+
+.user{
+	height: 80px;
+	width: 90%;
+	
+}
+
+.pass{
+	height: 80px;
+	width: 90%;
+	
+}
+
+.submit{
+	height: 80px;
+	width: 90%;
+	
+}
+
+#user, #pass, #submit{
+	width: 98%;
+	height: 50%;
+
+}
